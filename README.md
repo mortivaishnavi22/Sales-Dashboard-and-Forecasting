@@ -87,6 +87,6 @@ It combines data analysis, visualization, and time series forecasting to deliver
   
 - Standard shipping is the most used delivery mode
 
--Sales show seasonal fluctuations across months
+- Sales show seasonal fluctuations across months
 
--Forecast indicates steady growth trend in upcoming days
+- Forecast indicates steady growth trend in upcoming days
